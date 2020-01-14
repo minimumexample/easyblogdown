@@ -1,4 +1,4 @@
-baseurl = "http://www.google.com/"
+baseurl = "https://minimumexample.github.io/easyblogdown"
 publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"

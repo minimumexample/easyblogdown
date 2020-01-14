@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.google.com/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.google.com/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.google.com/post/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.google.com/about/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.google.com/categories/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.google.com/howto/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/howto/</loc>
   </url>
   
   <url>
-    <loc>http://www.google.com/tags/</loc>
+    <loc>https://minimumexample.github.io/easyblogdown/tags/</loc>
   </url>
   
 </urlset>
