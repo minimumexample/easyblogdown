@@ -1,0 +1,6 @@
+---
+title: 'How to draw a cat'
+date: ''
+---
+
+A cat has a head, body and four legs.
